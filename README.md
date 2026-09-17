@@ -1,2 +1,2 @@
 # Python-rock-paper-scissor-program
-crush!! break!!
+crush!! break!! cut!!
